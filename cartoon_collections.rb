@@ -6,7 +6,7 @@ def roll_call_dwarves(array)
   end 
 end
 
-roll_call_dwarves(dwarves)
+
   
 
 
